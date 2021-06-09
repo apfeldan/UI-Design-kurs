@@ -33,4 +33,4 @@
 
 ## Aufgabe #10
 <a href="./VUI_Konzept.pdf">VUI_Konzept</a><br>
-<a href="./Dialog Flow.jpg">VUI_Dialog Flow1</a><br>
+<a href="./Dialog Flow.jpg">VUI_Dialog Flow</a><br>
