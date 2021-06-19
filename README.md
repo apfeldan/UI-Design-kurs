@@ -33,7 +33,7 @@
 
 ## Aufgabe #10
 <a href="./VUI_Konzept.pdf">VUI_Konzept</a><br>
-<a href="./Dialog Flow.jpg">VUI_Dialog Flow</a><br>
+<a href="./VUI_Dialog Flow.pdf">VUI_Dialog Flow</a><br>
 
 ## Aufgabe #11
 <a href="https://webuser.hs-furtwangen.de/~apfeldan/VUI/playground-artyom.html">VUI_Prototype</a><br>
