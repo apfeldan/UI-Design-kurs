@@ -37,4 +37,7 @@
 
 ## Aufgabe #11
 <a href="https://webuser.hs-furtwangen.de/~apfeldan/VUI/playground-artyom.html">VUI_Prototype</a><br>
-<a href="./VUI_Screencast.mp4">VUI_Screencast</a><br>
+<video width="320" height="240" controls>
+  <source src="VUI_Screencast.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>VUI_Screencast</a><br>
